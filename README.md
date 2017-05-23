@@ -1,3 +1,3 @@
 # CNN-Fine-Tuning-MatConvNet
 
-Entrenamiento con Fine Tuning de Red Neuronal Convolucional en librería MatcConvNet
+Entrenamiento con Fine Tuning de Red Neuronal Convolucional en librerÃ­a MatConvNet
